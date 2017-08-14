@@ -1,0 +1,6 @@
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\bin\Debug\NumberSorter.exe.config
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\bin\Debug\NumberSorter.exe
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\bin\Debug\NumberSorter.pdb
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\obj\Debug\NumberSorter.exe
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\obj\Debug\NumberSorter.pdb
+C:\Users\Stephen\Documents\GitHub\NumberSorter\NumberSorter\obj\Debug\NumberSorter.csprojResolveAssemblyReference.cache
